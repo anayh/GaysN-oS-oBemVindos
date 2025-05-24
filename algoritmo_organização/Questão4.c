@@ -1,4 +1,3 @@
-// EXERCÍCIO 04 - Quick Sort com pivô central
 #include <stdio.h>
 
 void quickSort(int v[], int inicio, int fim) {

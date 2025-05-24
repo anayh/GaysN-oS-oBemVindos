@@ -1,6 +1,3 @@
-// Fazer um algoritmo que leia um conjunto de 100 números inteiros; leia também 
-// um valor para variável x e verifique se o valor de x existe no conjunto lido.   
-
 #include <stdio.h>
 
 int main(){

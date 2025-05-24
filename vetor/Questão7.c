@@ -1,6 +1,3 @@
-// 07 - Fazer um algoritmo que leia um conjunto de 100 números inteiros. Calcule e 
-// escreva raiz média quadrática. 
-
 #include <stdio.h>
 #include <math.h>
 

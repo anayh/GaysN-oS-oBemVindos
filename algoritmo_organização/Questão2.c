@@ -1,4 +1,3 @@
-// EXERCÍCIO 02 - Insertion Sort com vetor aleatório
 #include <stdio.h>
 #include <stdlib.h>
 

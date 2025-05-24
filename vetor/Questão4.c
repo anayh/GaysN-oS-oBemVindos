@@ -1,5 +1,3 @@
-// Fazer um algoritmo que leia um conjunto de 100 números inteiros. Calcule e 
-// escreva a amplitude total deste conjunto.  
 #include <stdio.h>
 
 int main(){

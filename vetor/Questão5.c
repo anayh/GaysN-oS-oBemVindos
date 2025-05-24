@@ -1,5 +1,3 @@
-// 5 - Fazer um algoritmo que leia um conjunto de 100 números inteiros. Calcule e 
-// escreva média aritmética.
 #include <stdio.h>
 
 int main(){

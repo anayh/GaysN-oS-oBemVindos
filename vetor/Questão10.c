@@ -1,7 +1,3 @@
-// 10 - Elabore um algoritmo para armazenar em um vetor V1 todos os valores inteiros 
-// positivos desde 1 até 50. Em seguida transporte todos os elementos primos do vetor 
-// V1 para um vetor V2. Imprima no final os dois vetores.  
-
 #include <stdio.h>
 #include <stdbool.h>
 

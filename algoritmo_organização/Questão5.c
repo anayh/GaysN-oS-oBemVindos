@@ -1,4 +1,3 @@
-// EXERCÍCIO 05 - Intercalação de dois vetores ordenados
 #include <stdio.h>
 
 void bubbleSort(int v[], int n) {

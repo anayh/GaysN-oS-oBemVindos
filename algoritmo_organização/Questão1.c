@@ -1,4 +1,3 @@
-// EXERCÍCIO 01 - Bubble Sort com impressão a cada passagem
 #include <stdio.h>
 
 void bubbleSort(int v[], int n) {

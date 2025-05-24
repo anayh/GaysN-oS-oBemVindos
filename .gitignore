@@ -4,11 +4,6 @@
 # Ignorar arquivos executáveis do Windows (gerados após compilar)
 *.exe
 
-# Ignorar pastas de backup, cópias ou temporárias (ajuste os nomes conforme suas pastas)
-algoritmo.. copy afimar/
-matriz copy afimar/
-vetor copy afimar/
-
 # Ignorar arquivos temporários comuns
 *.log
 *.tmp

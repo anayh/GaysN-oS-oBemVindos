@@ -1,11 +1,3 @@
-// 05 - Faça um programa que leia uma matriz de 5 linhas e 4 colunas contendo as 
-// seguintes informações sobre alunos de uma disciplina, sendo todas as 
-// informações do tipo inteiro: 
-// • Primeira coluna: número de matrícula (use um inteiro) 
-// • Segunda coluna: média das provas 
-// • Terceira coluna: média dos trabalhos 
-// • Quarta coluna: nota final 
-
 #include <stdio.h>
 
 #define ALUNOS 5

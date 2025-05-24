@@ -1,21 +1,3 @@
-// 11 - Em uma fábrica trabalham homens e mulheres divididos em três classes:  
-// • Trabalhadores que fazem até 30 peças por mês – classe 1;  
-// • Trabalhadores que fazem de 31 a 35 peças por mês – classe 2;  
-// • Trabalhadores que fazem mais de 35 peças por mês – classe 3.  
-// A classe 1 recebe salário-mínimo (R$1518,00). A classe 2 recebe salário-mínimo 
-// mais 3% do salário-mínimo por peça acima das 30 peças iniciais. A classe 3 recebe 
-// salário-mínimo mais 5% do salário-mínimo por peça fabricada acima das 30 peças 
-// iniciais. A fábrica possui 15 operários.  
-// Faça um programa que leia para cada operário: o seu número (inteiro), o número de 
-// peças fabricadas no mês e seu sexo (1 para masculino ou 2 para feminino). Os 
-// dados devem ser armazenados em 3 vetores: vetNumOp, vetNumPecas e vetSexo 
-// respectivamente. O programa deve calcular os salários dos funcionários, 
-// armazená-los em um quarto vetor (vetSalarios) e mostrar um relatório que 
-// contenha o número do operário, a quantidade de peças fabricadas no mês e o seu 
-// salário. O programa deve mostrar também o total da folha de pagamento da fábrica.
-
-#include <stdio.h>
-
 #define NUM_OPERARIOS 15
 #define SALARIO_MINIMO 1518.00
 

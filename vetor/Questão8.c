@@ -1,6 +1,3 @@
-// 8 - Fazer um algoritmo que leia dois conjuntos de 30 números inteiros. Calcule e 
-// escreva um terceiro conjunto fruto da intercalação dos dois primeiros. 
-
 #include <stdio.h>
 
 #define TAM 30
